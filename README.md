@@ -4,3 +4,4 @@ https://www.notion.so/31e0387c9d9b80aca271fb715d22421d #basics and types of test
 https://www.notion.so/Documents-Used-in-testing-31f0387c9d9b80c082c6d53e52dc1b0f?source=copy_link #docs usedmin testing
 https://www.notion.so/3270387c9d9b805cbbd7dee430c8903c # synchroniztion/waiting
 https://www.notion.so/3290387c9d9b802a8db5cd891e0a8b9a?source=copy_link #Logger
+https://www.notion.so/32c0387c9d9b801c8c5af52845d91eef?source=copy_link #Hybrid framework
